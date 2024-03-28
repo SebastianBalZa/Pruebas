@@ -1,0 +1,10 @@
+.custom-btn {
+    background-color: black !important;
+    color: white !important;
+    border: 2px solid white !important;
+}
+
+body {
+    background-image: url("../img/imagenfondo.jpg");
+    background-size: cover; /* Esto ajustará la imagen para que cubra todo el fondo */
+}
